@@ -4,7 +4,7 @@
 
 - Visualiza los colores RGB
 - Visualiza los colores CMY
-- Visualiza blanco (W) y negreo (K)
+- Visualiza blanco (W) y negro (K)
 
 ### Dar permiso de ejecucion
 ```sh
