@@ -2,6 +2,9 @@
 
 <p align="center"><img src="imagen/screenshot_00.png" width="1100"></p>
 
+- Visualiza los colores RGB
+- Visualiza los colores CMY
+- Visualiza blanco (W) y negreo (K)
 
 ### Dar permiso de ejecucion
 ```sh
