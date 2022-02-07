@@ -1,1 +1,1 @@
-# PukeRainbow-Terminal
+# Puke Rainbow Terminal
