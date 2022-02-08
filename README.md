@@ -8,8 +8,8 @@ https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/tools/screenshotTa
 
 <p align="center"><img src="imagen/screenshot_00.png" width="1100"></p>
 
-- Visualiza los colores RGB
-- Visualiza los colores CMY
+- Visualiza los colores RGB (base)
+- Visualiza los colores CMY (brillantes)
 - Visualiza blanco (W) y negro (K)
 
 ### Dar permiso de ejecucion
