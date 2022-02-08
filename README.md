@@ -1,4 +1,4 @@
-# Intro
+# Introduccion
 
 Este script busca agregar mas colores al esquema de:
 
