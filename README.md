@@ -1,6 +1,6 @@
 # Introduccion
 
-Este script busca agregar mas colores al esquema de:
+Este script busca agregar los colores "brillantes" al esquema de:
 
 https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/tools/screenshotTable.sh
 
