@@ -1,5 +1,9 @@
 # Puke Rainbow Terminal
 
+Este script busca agregar mas colores al esquema de:
+
+https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/tools/screenshotTable.sh
+
 <p align="center"><img src="imagen/screenshot_00.png" width="1100"></p>
 
 - Visualiza los colores RGB
