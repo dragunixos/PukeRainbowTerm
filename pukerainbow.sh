@@ -1,5 +1,6 @@
 #https://tldp.org/HOWTO/Bash-Prompt-HOWTO/x329.html
 #https://chrisyeh96.github.io/2020/03/28/terminal-colors.html
+https://www.growingwiththeweb.com/2015/05/colours-in-gnome-terminal.html
 ########################################################
 #  256 Color Test "cmykwrgb" a.k.a Puke Rainbow Terminal
 ########################################################
